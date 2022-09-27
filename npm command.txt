@@ -1,1 +1,2 @@
 1>Go to https://www.npmjs.com/package/express  :  npm docs express
+2>Run npm i nodemon --save-dev or npm i nodemon -D. nodemon starts with your npm start script
